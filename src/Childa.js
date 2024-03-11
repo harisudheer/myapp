@@ -5,7 +5,7 @@ export default function Childa() {
   return (
     <>
       <h2>Hello {user} from Child component</h2>
-      <button>Change to Cathy</button>
+      <button onClick= {() => setUser((prevState) =>"Cathy")}>Change to Cathy</button>
     </>
   );
 }
