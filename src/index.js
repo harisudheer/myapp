@@ -7,6 +7,7 @@ import App14 from './App14';
 import App1 from './App1';
 import App15 from './App15';
 import App16 from './App16';
+import App13a from './App13a';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -14,5 +15,6 @@ root.render(
 <hr></hr>
 <div id="products" class="main"><Fruits /></div>
 </> */
-<App16 />
+{/* <App16 /> */}
+<App13a />
 );
