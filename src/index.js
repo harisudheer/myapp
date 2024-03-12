@@ -33,13 +33,37 @@
 // );
 
 
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App13a from './App13a';
-import App15 from './App15';
+// import React from 'react';
+// import ReactDOM from 'react-dom/client';
+// import './index.css';
+// import App13a from './App13a';
+// import App15 from './App15';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+// const root = ReactDOM.createRoot(document.getElementById('root'));
+// root.render(
+// <App15 />
+// );
+
+// import React from "react";
+// import ReactDOM from "react-dom/client";
+// import "./index.css";
+// import App20 from "./App20";
+
+// const root = ReactDOM.createRoot(document.getElementById("root"));
+// root.render(
+//   <>
+//     <App20 />
+//   </>
+// );
+
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App21 from "./App21";
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-<App15 />
+  <>
+    <App21 />
+  </>
 );
