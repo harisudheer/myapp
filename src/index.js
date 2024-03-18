@@ -62,10 +62,11 @@ import "./index.css";
 import App20 from "./App20";
 import App21 from "./App21";
 import App24 from "./App24";
+import App25 from "./App25";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <>
-    <App24 /> 
+    <App25 /> 
   </>
 );
